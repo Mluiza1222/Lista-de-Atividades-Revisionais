@@ -47,10 +47,10 @@ Rodapé fixo
 
 Os exercícios foram desenvolvidos no VSCode e organizados em arquivos separados, seguindo o padrão:
 
-exercicio1.html
-exercicio1.css
-exercicio2.html
-exercicio2.css
+* exercicio1.html
+* exercicio1.css
+* exercicio2.html
+* exercicio2.css
 ...
 exercício20.html
 
