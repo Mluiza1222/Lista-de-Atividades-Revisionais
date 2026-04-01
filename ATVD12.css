@@ -1,0 +1,28 @@
+body {
+    background-color: #ffe4c4;
+}
+
+h1, p {
+    text-align: center;
+}
+
+.container {
+    text-align: center;
+}
+
+.botão {
+    background-color: #3498db;
+    color: white;
+    padding: 15px 30px;
+    font-size: 18px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+   
+
+    transition: background-color 0.5s ease;
+}
+
+.botão:hover {
+    background-color: #2ecc71;
+}

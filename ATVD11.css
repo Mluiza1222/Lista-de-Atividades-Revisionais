@@ -1,0 +1,12 @@
+body {
+    background: #016114;
+    background: linear-gradient(90deg, rgba(1, 97, 20, 1) 35%, rgba(38, 181, 81, 1) 72%, rgba(96, 179, 117, 1) 100%);
+}
+
+h1, p{
+    text-align: center;
+}
+
+.imagem {
+    text-align: center;
+}

@@ -1,0 +1,9 @@
+body{
+    text-align: center;
+    font-family: Arial;
+}
+
+.imagem img{
+    border: 5px solid yellow;
+    width: 300px;
+}

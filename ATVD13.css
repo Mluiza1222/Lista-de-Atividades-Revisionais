@@ -1,0 +1,22 @@
+body {
+    background-color: hsl(161, 66%, 74%);
+    text-align: center;
+}
+
+.form-control {
+    background-color: antiquewhite;
+    border: none;
+    border-radius: 10px;
+    height: 10px;
+    padding: 10px;
+}
+
+button {
+    background-color:rgb(204, 226, 218);
+    border: none;
+    height: 30px;
+    width: 60px;
+    border-radius: 100px;
+    color:rgb(82, 0, 0);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}

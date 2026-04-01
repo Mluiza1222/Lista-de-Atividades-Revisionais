@@ -1,0 +1,27 @@
+body {
+    background-color: antiquewhite;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1 {
+    text-align: center;
+    color: blue;
+}
+
+.Divzinha{
+    width: 100px;
+    height: 100px;
+    background-color: lightblue;
+    transition: 0.5s ease;
+}
+
+.Divzinha:hover{
+    width: 150px;
+    height: 150px;
+}
+
+.texto{
+    text-align: center;
+}

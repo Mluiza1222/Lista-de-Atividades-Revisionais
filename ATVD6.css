@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(163, 122, 45);
+    text-align: center;
+}
+
+form{
+    background-color: rgb(43, 31, 10);
+    padding: 20px;
+    border-radius: 10px;
+}
+
+h2{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 35px;
+    font-style: italic;
+}
+
+label{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 20px;
+    font-style: italic;
+    color: palegoldenrod;
+}
+
+button {
+    background-color: rgb(168, 88, 23);
+}
